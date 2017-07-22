@@ -14,9 +14,9 @@
 <body>
     <center>
     <div class="box">
-        <!--    redirect to data entry page-->
+        <!--    redirect to year selection page-->
 
-        <button class="buttonsLayout"><a href="">Computers</a></button>
+        <button class="buttonsLayout"><a href="computerYear.html">Computers</a></button>
         <br><br>
         <button class="buttonsLayout"><a href="">IT</a></button>
         <br><br>
